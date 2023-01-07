@@ -1,6 +1,13 @@
 # nbrproyecto-api
 
-ALUMNO: NAHUEL BUSTO ROSATI
+Proyecto Final Programación Web Avanzada (PWA)
+
+Alumno: Nahuel Busto Rosati
+Profesor: Pastor Bernal
+
+CREDENCIAL ADMIN:
+Username: Admin
+Password: admin
 
 DESCRIPCION GENERAL:
 
@@ -31,5 +38,3 @@ Dejo ademas del ADMIN un perfil "Comercial" para que pueda notar la diferencia:
 
 Username: BernalPastor
 Password: Bernal
-
-
